@@ -1,6 +1,6 @@
 module github.com/nek023/gconfig
 
-go 1.25
+go 1.26
 
 require (
 	github.com/goccy/go-yaml v1.18.0

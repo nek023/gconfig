@@ -27,7 +27,7 @@ go build -o gconfig .
 
 ## Prerequisites
 
-- Go 1.25.0 or higher
+- Go 1.26.0 or higher
 - [gcloud CLI](https://cloud.google.com/sdk/docs/install) installed and configured
 - [fzf](https://github.com/junegunn/fzf) (required for interactive switching)
 
